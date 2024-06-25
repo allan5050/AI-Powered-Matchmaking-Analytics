@@ -45,6 +45,6 @@ This repository contains a Jupyter notebook that performs sophisticated analysis
 
 I'm a Technical Product Manager with a Master's in Computer Science from the University of Illinois at Urbana-Champaign. My expertise lies in AI/ML, computer vision, and data analytics. I have a proven track record of delivering successful products that drive revenue growth and cost savings.
 
-[https://www.linkedin.com/in/allannev/]
+https://www.linkedin.com/in/allannev/
 
 Feel free to reach out if you have any questions or would like to discuss potential collaborations!
